@@ -8,3 +8,5 @@ Folders are in the format Lx_OCy_OHz, where L refers to the lateral size of the 
 The image below shows a GO particle with OH = 0.3 and OC = 0.17. Edge carbons atoms are in gray and basal carbon atoms in pinks. Oxygen atoms attached to edge carbon atoms are in blue and oxygen atoms attached to a basal carbon atoms are in pinks. Hydrogen atoms are in white.
 
 ![Alt text](GOnanoparticle.jpg?raw=true "GO particle")
+
+<img src="GOnanoparticle.jpg" width="100" height="100">
