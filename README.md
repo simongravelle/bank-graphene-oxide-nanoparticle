@@ -8,6 +8,6 @@ Each folder contains 50 subfolders, each containing the data necessary to genera
 
 The image below shows a GO particle with OH = 0.3 and OC = 0.17. Edge carbons atoms are in gray and basal carbon atoms in pinks. Oxygen atoms attached to edge carbon atoms are in blue and oxygen atoms attached to a basal carbon atoms are in pinks. Hydrogen atoms are in white.
 
-<img src="GOnanoparticle.jpg" width="100%">
+<img src="GOnanoparticle_3views.jpg" width="100%">
 
 Visit the page of [Robert Sinclair](https://github.com/velocirobbie) for more information.
