@@ -1,4 +1,4 @@
-# Graphene Oxide Nanoparticle
+# Graphene Oxide Nanoparticle #
 
 This repository is a bank of Graphene Oxide (GO) nanoparticles generated using [make-graphitics](https://github.com/velocirobbie/make-graphitics). GO particles are square with lateral size L from 1.2 to 2.8 nm. Carbon atoms are functionalised hydroxyl groups only.
 
@@ -8,6 +8,6 @@ Each folder contains 50 subfolders, each containing the data necessary to genera
 
 The image below shows a GO particle with OH = 0.3 and OC = 0.17. Edge carbons atoms are in gray and basal carbon atoms in pinks. Oxygen atoms attached to edge carbon atoms are in blue and oxygen atoms attached to a basal carbon atoms are in pinks. Hydrogen atoms are in white.
 
-<img src="GOnanoparticle.jpg" width="500" height="500">
+<img src="GOnanoparticle.jpg" width="100%">
 
 Visit the page of [Robert Sinclair](https://github.com/velocirobbie) for more information.
