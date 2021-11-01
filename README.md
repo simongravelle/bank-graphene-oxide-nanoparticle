@@ -10,4 +10,6 @@ The image below shows a GO particle with OH = 0.3 and OC = 0.17. Edge carbons at
 
 <img src="GOnanoparticle_3views.jpg" width="100%">
 
-Visit the page of [Robert Sinclair](https://github.com/velocirobbie) for more information.
+Visit the page of [Robert Sinclair](https://github.com/velocirobbie) for more information. If you use this data, please cite:
+[Gravelle S.](https://simongravelle.github.io/) and [Botto L.](https://bottogroup.wordpress.com/), [Adsorption of single and multiple graphene oxide nanoparticles at a water-vapor interface, Langmuir](https://pubs.acs.org/doi/10.1021/acs.langmuir.1c01902)
+
